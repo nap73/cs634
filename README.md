@@ -2,5 +2,5 @@
 Supervised Data Mining : Classification.
 
 
-In this project, I studied and carried out comparative study of Classification Algorithms : Bayesian Networks and Naïve Bayes.
-I have used Weka tool for the purpose of my study.
+In this project, I analysed and carried out comparative study of Classification Algorithms : Bayesian Networks and Naïve Bayes.
+I used Weka ( an open source machine learning tool ) for for the purpose of my study.
